@@ -2,7 +2,9 @@
 
 ## 👋 About Me
 
-AI strategist and technologist with 20+ years of experience driving transformative solutions across federal and enterprise environments. I bridge the gap between complex technologies and real-world value, specializing in AI governance, strategic implementation, and building systems that evolve responsibly.
+### 🚀 AI Strategy | Governance | Collaboration
+
+Data scientist who fell into consulting and working at the intersection of emerging tech and business value. I’m not a software developer, but I love to build and experiment with new technologies, techniques, and frameworks to stay on top of the crazy world of AI.  I focus on helping organizations design, build, and deploy AI systems that can adapt and evolve while fostering collaboration to drive innovation.
 
 > "I believe in building AI systems that adapt, evolve, and create tangible value while remaining ethically grounded."
 
@@ -11,25 +13,26 @@ AI strategist and technologist with 20+ years of experience driving transformati
 - Exploring modular AI architectures with agentic orchestration
 - Developing adaptive systems that improve decision-making efficiency
 - Advancing practical applications of LLMs in risk assessment and strategic analysis
-- Designing and implementing enterprise-scale AI governance frameworks
+- Exploring the use of Agentic AI in the context of systemic risk and gaurdrails
 
 ## 💡 Research Interests
 
-- **Modular AI Systems**: Creating flexible, evolving architectures that adapt to changing conditions
-- **AI Governance**: Building frameworks that balance innovation with responsibility
+- **Modular AI Systems**: Designing flexible, evolving architectures that adapt to changing conditions
+- **Interactive AI Tools**: Experimenting with multi-agent systems to enhance learning and transparency in AI processes
 - **Retrieval Mechanisms**: Enhancing context and accuracy in AI systems' information retrieval
 - **Cross-domain Applications**: Exploring how AI creates value across finance, government, and supply chain
+- **AI Governance**: Building frameworks that balance innovation with responsibility
 
 ## 🛠️ Technical Skills
 
 ```
 | AI & ML          | Cloud & Data    | Programming     | Tools & Platforms |
 |------------------|-----------------|-----------------|-------------------|
-| OpenAI           | Azure           | Python          | Databricks        |
-| NVIDIA AI Foundry| AWS             | SQL             | Snowflake         |
-| TensorFlow       | Data Factory    | R               | Pinecone          |
-| Keras            | Starburst       | PySpark         | Scale AI          |
-| PyTorch          |                 |                 | LlamaIndex        |
+| PyTorch          | Azure           | Python          | Databricks        |
+| TensorFlow       | AWS             | SQL             | Snowflake         |
+| Keras            | Data Factory    | R               | Pinecone          |
+| NVIDIA AI        | Starburst       | PySpark         | LlamaIndex        |
+| OpenAI           |                 |                 | NVIDA NeMo        |
 | Hugging Face     |                 |                 |                   |
 ```
 
@@ -46,8 +49,8 @@ I thrive at the intersection of ideas, believing the most innovative solutions e
 
 *I'm in the process of open-sourcing selected projects from my work. Check back soon for repositories demonstrating:*
 
-- Enterprise AI Governance Framework
 - Modular Agentic Orchestration Architecture 
+- AI Agent/Assistant - Contract Review & Analysis Agent
 - Advanced Retrieval System for Context-Enhanced LLMs
 - Financial Risk Assessment Implementation
 
@@ -68,3 +71,4 @@ I'm always open to discussing new ideas, collaborations, or opportunities to cre
 ---
 
 *"The best way to predict the future is to build it. The responsible way is to build it together."*
+
