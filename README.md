@@ -2,7 +2,7 @@
 
 ### 🚀 AI Strategy | Governance | Collaboration
 
-Data scientist, consultant - working at the intersection of emerging tech and driving value. 
+Data scientist, consultant - working at the intersection of emerging tech and value creation. 
 
 I'm not a software developer, but I love to build and experiment with new technologies, techniques, and frameworks to stay on top of the crazy world of AI. I focus on helping organizations design, build, and deploy AI systems that can adapt and evolve while fostering collaboration to drive innovation.
 
@@ -24,28 +24,39 @@ I'm not a software developer, but I love to build and experiment with new techno
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 
 ### General Tools and Services
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Data Factory](https://img.shields.io/badge/Data_Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Starburst](https://img.shields.io/badge/Starburst-9A2BAB?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![NVIDIA AI](https://img.shields.io/badge/NVIDIA_AI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-0078D4?style=for-the-badge&logo=xgboost&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Natural Language Processing and LLMs
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0065A2?style=for-the-badge&logoColor=white)
 ![NVIDIA NeMo](https://img.shields.io/badge/NVIDIA_NeMo-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-4255FF?style=for-the-badge&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-464B8A?style=for-the-badge&logoColor=white)
+
+### Serving and Testing
+![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF8A65?style=for-the-badge&logo=gradio&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 ### Project Management
-![Agile](https://img.shields.io/badge/Agile-47A248?style=for-the-badge&logo=agile&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
@@ -59,7 +70,9 @@ I'm not a software developer, but I love to build and experiment with new techno
 
 ## 🤝 Collaboration Philosophy
 
-I thrive at the intersection of ideas, believing the most innovative solutions emerge when we combine diverse perspectives. My approach to collaboration:
+I thrive at the intersection of ideas, but firmly believing the most innovative solutions emerge when we combine perspectives...like an ensemble mmodel does it (HA!). 
+
+My approach to collaboration:
 
 - Build cross-functional teams that blend technical expertise with domain knowledge
 - Create rapid prototyping environments that encourage experimentation
@@ -75,6 +88,9 @@ I thrive at the intersection of ideas, believing the most innovative solutions e
 - Advanced Retrieval System for Context-Enhanced LLMs
 - Financial Risk Assessment Implementation
 
+## 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kris-nale314&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✍️ Recent Publications
 
@@ -82,6 +98,16 @@ I thrive at the intersection of ideas, believing the most innovative solutions e
 - [Agentic Orchestration in Modular AI: Designing Systems That Evolve](https://medium.com/ai-in-plain-english/agentic-orchestration-in-modular-ai-designing-systems-that-evolve-af51970e1291)
 - [Adaptive AI Governance: Shaping Systems That Evolve Responsibly](https://medium.com/ai-in-plain-english/adaptive-ai-governance-shaping-systems-that-evolve-responsibly-fb242bbfdd81)
 - [Advanced Retrieval Mechanisms for AI Systems: Lessons from Financial Services](https://medium.com/ai-advances/advanced-retrieval-mechanisms-for-ai-systems-lessons-from-financial-services-fe4dae414386)
+
+## 🌟 Inspirations & Favorite Projects
+
+I follow and admire the work of these AI pioneers and projects:
+
+[![Andrew Ng](https://img.shields.io/badge/Andrew_Ng-25D366?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrewng)
+[![Sebastian Raschka](https://img.shields.io/badge/Sebastian_Raschka-E4405F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rasbt)
+[![Stanford AI](https://img.shields.io/badge/Stanford_AI-8C1515?style=for-the-badge&logo=stanford&logoColor=white)](https://github.com/stanfordnlp)
+[![LangChain](https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logo=langchain&logoColor=white)](https://github.com/langchain-ai/langchain)
+[![OpenAI Cookbook](https://img.shields.io/badge/OpenAI_Cookbook-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/openai/openai-cookbook)
 
 ## 📫 Connect With Me
 
@@ -93,3 +119,6 @@ I'm always open to discussing new ideas, collaborations, or opportunities to cre
 ---
 
 *"The best way to predict the future is to build it. The responsible way is to build it together."*
+
+<!-- Visitor count badge -->
+![Profile views](https://komarev.com/ghpvc/?username=kris-nale314&color=brightgreen&style=flat-square)
