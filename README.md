@@ -1,27 +1,63 @@
 # Hi, I'm Kris 👋 
 
-### 🚀 AI Strategy | Governance | Collaboration
+## 🚀 AI Strategy | Governance | Collaboration
 
-Data scientist, consultant - working at the intersection of emerging tech and value creation. 
+Data scientist, consultant - working at the intersection of emerging tech and driving value. 
 
 I'm not a software developer, but I love to build and experiment with new technologies, techniques, and frameworks to stay on top of the crazy world of AI. I focus on helping organizations design, build, and deploy AI systems that can adapt and evolve while fostering collaboration to drive innovation.
 
 > "I believe in building AI systems that adapt, evolve, and create tangible value while remaining ethically grounded."
 
-## 🔭 Current Focus - Think Big, Start Small...and Iteratively Add & Expand...
+## 🔭 Think Big, Start Small...and Iteratively Add & Expand...
 
 - Exploring modular AI architectures with agentic orchestration
 - Developing adaptive systems that improve decision-making efficiency
 - Advancing practical applications of LLMs in risk assessment and strategic analysis
 - Exploring the use of Agentic AI in the context of systemic risk and guardrails
 
+## 💡 Research Interests
+
+- **Modular AI Systems**: Designing flexible, evolving architectures that adapt to changing conditions
+- **Interactive AI Tools**: Experimenting with multi-agent systems to enhance learning and transparency in AI processes
+- **Retrieval Mechanisms**: Enhancing context and accuracy in AI systems' information retrieval
+- **Cross-domain Applications**: Exploring how AI creates value across finance, government, and supply chain
+- **AI Governance**: Building frameworks that balance innovation with responsibility
+
+## ✍️ Recent Publications
+
+- [Words Matter: Are Language Barriers Driving Quiet Failures in AI?](https://pub.towardsai.net/words-matter-are-language-barriers-driving-quiet-failures-in-ai-1b5741e1d089)
+- [Agentic Orchestration in Modular AI: Designing Systems That Evolve](https://medium.com/ai-in-plain-english/agentic-orchestration-in-modular-ai-designing-systems-that-evolve-af51970e1291)
+- [Adaptive AI Governance: Shaping Systems That Evolve Responsibly](https://medium.com/ai-in-plain-english/adaptive-ai-governance-shaping-systems-that-evolve-responsibly-fb242bbfdd81)
+- [Advanced Retrieval Mechanisms for AI Systems: Lessons from Financial Services](https://medium.com/ai-advances/advanced-retrieval-mechanisms-for-ai-systems-lessons-from-financial-services-fe4dae414386)
+
+## 🌟 Inspirations & Favorite Projects
+
+Here are some places to explore that have some great projects:
+
+[![Landing AI](https://img.shields.io/badge/Landing_AI-00A36C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/landing-ai)
+[![Sebastian Raschka](https://img.shields.io/badge/Sebastian_Raschka-E4405F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rasbt)
+[![STORM](https://img.shields.io/badge/STORM-8C1515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stanford-oval/storm)
+[![LangChain](https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logo=langchain&logoColor=white)](https://github.com/langchain-ai/langchain)
+[![OpenAI Cookbook](https://img.shields.io/badge/OpenAI_Cookbook-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/openai/openai-cookbook)
+
+
+## 🤝 Collaboration Philosophy
+
+I thrive at the intersection of ideas, believing the most innovative solutions emerge when we combine diverse perspectives. My approach to collaboration:
+
+- Build cross-functional teams that blend technical expertise with domain knowledge
+- Create rapid prototyping environments that encourage experimentation
+- Maintain open communication channels to share learnings and insights
+- Focus on practical implementations that deliver measurable value
+
+
 ## 💻 Technical Skills
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### General Tools and Services
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -42,12 +78,13 @@ I'm not a software developer, but I love to build and experiment with new techno
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Natural Language Processing and LLMs
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0065A2?style=for-the-badge&logoColor=white)
 ![NVIDIA NeMo](https://img.shields.io/badge/NVIDIA_NeMo-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-4255FF?style=for-the-badge&logoColor=white)
 ![Chroma](https://img.shields.io/badge/Chroma-464B8A?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### Serving and Testing
 ![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
@@ -57,27 +94,10 @@ I'm not a software developer, but I love to build and experiment with new techno
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 ### Project Management
+![Agile](https://img.shields.io/badge/Agile-47A248?style=for-the-badge&logo=agile&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
-## 💡 Research Interests
-
-- **Modular AI Systems**: Designing flexible, evolving architectures that adapt to changing conditions
-- **Interactive AI Tools**: Experimenting with multi-agent systems to enhance learning and transparency in AI processes
-- **Retrieval Mechanisms**: Enhancing context and accuracy in AI systems' information retrieval
-- **Cross-domain Applications**: Exploring how AI creates value across finance, government, and supply chain
-- **AI Governance**: Building frameworks that balance innovation with responsibility
-
-## 🤝 Collaboration Philosophy
-
-I thrive at the intersection of ideas, but firmly believing the most innovative solutions emerge when we combine perspectives...like an ensemble mmodel does it (HA!). 
-
-My approach to collaboration:
-
-- Build cross-functional teams that blend technical expertise with domain knowledge
-- Create rapid prototyping environments that encourage experimentation
-- Maintain open communication channels to share learnings and insights
-- Focus on practical implementations that deliver measurable value
 
 ## 🚀 Featured Projects
 
@@ -92,22 +112,6 @@ My approach to collaboration:
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kris-nale314&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## ✍️ Recent Publications
-
-- [Words Matter: Are Language Barriers Driving Quiet Failures in AI?](https://pub.towardsai.net/words-matter-are-language-barriers-driving-quiet-failures-in-ai-1b5741e1d089)
-- [Agentic Orchestration in Modular AI: Designing Systems That Evolve](https://medium.com/ai-in-plain-english/agentic-orchestration-in-modular-ai-designing-systems-that-evolve-af51970e1291)
-- [Adaptive AI Governance: Shaping Systems That Evolve Responsibly](https://medium.com/ai-in-plain-english/adaptive-ai-governance-shaping-systems-that-evolve-responsibly-fb242bbfdd81)
-- [Advanced Retrieval Mechanisms for AI Systems: Lessons from Financial Services](https://medium.com/ai-advances/advanced-retrieval-mechanisms-for-ai-systems-lessons-from-financial-services-fe4dae414386)
-
-## 🌟 Inspirations & Favorite Projects
-
-I follow and admire the work of these AI pioneers and projects:
-
-[![Andrew Ng](https://img.shields.io/badge/Andrew_Ng-25D366?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrewng)
-[![Sebastian Raschka](https://img.shields.io/badge/Sebastian_Raschka-E4405F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rasbt)
-[![Stanford AI](https://img.shields.io/badge/Stanford_AI-8C1515?style=for-the-badge&logo=stanford&logoColor=white)](https://github.com/stanfordnlp)
-[![LangChain](https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logo=langchain&logoColor=white)](https://github.com/langchain-ai/langchain)
-[![OpenAI Cookbook](https://img.shields.io/badge/OpenAI_Cookbook-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/openai/openai-cookbook)
 
 ## 📫 Connect With Me
 
