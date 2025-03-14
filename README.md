@@ -8,12 +8,22 @@ I'm not a software developer, but I love to build and experiment with new techno
 
 > "I believe in building AI systems that adapt, evolve, and create tangible value while remaining ethically grounded."
 
-## 🔭 Think Big, Start Small...and Iteratively Add & Expand...
+## ✍️ Recent Publications
 
-- Exploring modular AI architectures with agentic orchestration
-- Developing adaptive systems that improve decision-making efficiency
-- Advancing practical applications of LLMs in risk assessment and strategic analysis
-- Exploring the use of Agentic AI in the context of systemic risk and guardrails
+- [ByteMeSumAI: A Modular Python Toolkit for Architecture-Aware Document Processing in Agentic AI](https://medium.com/@kris_nale314/bytemesumai-a-modular-python-toolkit-for-agentic-ai-6d18cc59da52)
+- [Words Matter: Are Language Barriers Driving Quiet Failures in AI?](https://pub.towardsai.net/words-matter-are-language-barriers-driving-quiet-failures-in-ai-1b5741e1d089)
+- [Agentic Orchestration in Modular AI: Designing Systems That Evolve](https://medium.com/ai-in-plain-english/agentic-orchestration-in-modular-ai-designing-systems-that-evolve-af51970e1291)
+- [Adaptive AI Governance: Shaping Systems That Evolve Responsibly](https://medium.com/ai-in-plain-english/adaptive-ai-governance-shaping-systems-that-evolve-responsibly-fb242bbfdd81)
+- [Advanced Retrieval Mechanisms for AI Systems: Lessons from Financial Services](https://medium.com/ai-advances/advanced-retrieval-mechanisms-for-ai-systems-lessons-from-financial-services-fe4dae414386)
+
+
+## 🔭 Featured Projects: Think Big, Start Small...and Iteratively Add & Expand...
+
+*I'm in the process of open-sourcing selected projects from my work:*
+
+- [ByteMeSumAI](https://github.com/Kris-Nale314/ByteMeSumAI)
+- [HalluciNOT](https://github.com/Kris-Nale314/HalluciNOT)
+- [Agentic-Explorer](https://github.com/Kris-Nale314/agentic-explorer)
 
 ## 💡 Research Interests
 
@@ -23,23 +33,16 @@ I'm not a software developer, but I love to build and experiment with new techno
 - **Cross-domain Applications**: Exploring how AI creates value across finance, government, and supply chain
 - **AI Governance**: Building frameworks that balance innovation with responsibility
 
-## ✍️ Recent Publications
-
-- [Words Matter: Are Language Barriers Driving Quiet Failures in AI?](https://pub.towardsai.net/words-matter-are-language-barriers-driving-quiet-failures-in-ai-1b5741e1d089)
-- [Agentic Orchestration in Modular AI: Designing Systems That Evolve](https://medium.com/ai-in-plain-english/agentic-orchestration-in-modular-ai-designing-systems-that-evolve-af51970e1291)
-- [Adaptive AI Governance: Shaping Systems That Evolve Responsibly](https://medium.com/ai-in-plain-english/adaptive-ai-governance-shaping-systems-that-evolve-responsibly-fb242bbfdd81)
-- [Advanced Retrieval Mechanisms for AI Systems: Lessons from Financial Services](https://medium.com/ai-advances/advanced-retrieval-mechanisms-for-ai-systems-lessons-from-financial-services-fe4dae414386)
 
 ## 🌟 Inspirations & Favorite Projects
 
 Here are some places to explore that have some great projects:
 
-[![Landing AI](https://img.shields.io/badge/Landing_AI-00A36C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/landing-ai)
+[![LangChain](https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logo=langchain&logoColor=white)](https://github.com/langchain-ai/langchain)
 [![Sebastian Raschka](https://img.shields.io/badge/Sebastian_Raschka-E4405F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rasbt)
 [![STORM](https://img.shields.io/badge/STORM-8C1515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stanford-oval/storm)
-[![LangChain](https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logo=langchain&logoColor=white)](https://github.com/langchain-ai/langchain)
 [![OpenAI Cookbook](https://img.shields.io/badge/OpenAI_Cookbook-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/openai/openai-cookbook)
-
+[![Landing AI](https://img.shields.io/badge/Landing_AI-00A36C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/landing-ai)
 
 ## 🤝 Collaboration Philosophy
 
@@ -61,11 +64,8 @@ I thrive at the intersection of ideas, believing the most innovative solutions e
 
 ### General Tools and Services
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Starburst](https://img.shields.io/badge/Starburst-9A2BAB?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -74,7 +74,6 @@ I thrive at the intersection of ideas, believing the most innovative solutions e
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![NVIDIA AI](https://img.shields.io/badge/NVIDIA_AI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-0078D4?style=for-the-badge&logo=xgboost&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Natural Language Processing and LLMs
@@ -83,7 +82,6 @@ I thrive at the intersection of ideas, believing the most innovative solutions e
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0065A2?style=for-the-badge&logoColor=white)
 ![NVIDIA NeMo](https://img.shields.io/badge/NVIDIA_NeMo-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-4255FF?style=for-the-badge&logoColor=white)
-![Chroma](https://img.shields.io/badge/Chroma-464B8A?style=for-the-badge&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### Serving and Testing
@@ -98,15 +96,6 @@ I thrive at the intersection of ideas, believing the most innovative solutions e
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
-
-## 🚀 Featured Projects
-
-*I'm in the process of open-sourcing selected projects from my work. Check back soon for repositories demonstrating:*
-
-- Modular Agentic Orchestration Architecture 
-- AI Agent/Assistant - Contract Review & Analysis Agent
-- Advanced Retrieval System for Context-Enhanced LLMs
-- Financial Risk Assessment Implementation
 
 ## 📊 GitHub Stats
 
