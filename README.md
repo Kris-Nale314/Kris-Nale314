@@ -21,9 +21,24 @@ I'm not a software developer, but I love to build and experiment with new techno
 
 *I'm in the process of open-sourcing selected projects from my work:*
 
-- [ByteMeSumAI](https://github.com/Kris-Nale314/ByteMeSumAI)
-- [HalluciNOT](https://github.com/Kris-Nale314/HalluciNOT)
-- [Agentic-Explorer](https://github.com/Kris-Nale314/agentic-explorer)
+- [ByteMeSumAI: Toolkit for Building Robust and Context-Aware AI](https://github.com/Kris-Nale314/ByteMeSumAI)
+- [HalluciNOT: Toolkit to Verify LLM Outputs Against Source Materials](https://github.com/Kris-Nale314/HalluciNOT)
+- [Agentic-Explorer: Agentic AI in Action & Under the Hood](https://github.com/Kris-Nale314/agentic-explorer)
+
+## 🤖 Spotlight: ByteMeSumAI - Python Package available on PyPi
+
+<h1 align="center">ByteMeSumAI</h2>
+<p align="center"><strong>Building Blocks for Robust and Context-Aware AI Systems</strong></p>
+
+<p align="center">
+  <a href="https://github.com/kris-nale314/bytemesumai/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="License"></a>
+  <a href="#"><img src="https://img.shields.io/badge/python-3.8%2B-blue" alt="Python"></a>
+  <a href="#"><img src="https://img.shields.io/badge/status-alpha-orange" alt="Development Status"></a>
+</p>
+
+
+<img src="https://raw.githubusercontent.com/kris-nale314/bytemesumai/main/docs/images/advanced_workflow.svg" alt="ByteMeSumAI Workflow" width="80%"/>
+
 
 ## 💡 Research Interests
 
