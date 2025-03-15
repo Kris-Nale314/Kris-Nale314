@@ -29,7 +29,8 @@ I'm not a software developer, but I love to build and experiment with new techno
 
 <p align="center"><strong>Building Blocks for Robust and Context-Aware AI Systems</strong></p>
 
-<table>
+
+<table align="center">
 <tr>
 <td width="50%">
 
