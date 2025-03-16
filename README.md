@@ -136,6 +136,10 @@ I thrive at the intersection of ideas, believing the most innovative solutions e
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kris-nale314&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+## AI Product Development Evolution
+
+<img align="center" src="https://raw.githubusercontent.com/kris-nale314/kris-nale314/AI_Product_Evolution.svg" alt="ByteMeSumAI Architecture" width="70%"/>
+
 
 ## 📫 Connect With Me
 
