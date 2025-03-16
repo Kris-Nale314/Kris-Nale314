@@ -10,7 +10,7 @@ I'm not a software developer, but I love to build and experiment with new techno
 
 ## ✍️ Recent Publications
 
-- [ByteMeSumAI: A Modular Python Toolkit for Architecture-Aware Document Processing in Agentic AI](https://medium.com/@kris_nale314/bytemesumai-a-modular-python-toolkit-for-agentic-ai-6d18cc59da52)
+- [ByteMeSumAI: A Modular Python Toolkit for Architecture-Aware Document Processing in Agentic AI](https://medium.com/generative-ai/bytemesumai-a-modular-python-toolkit-for-document-processing-in-agentic-ai-00a374496125)
 - [Words Matter: Are Language Barriers Driving Quiet Failures in AI?](https://pub.towardsai.net/words-matter-are-language-barriers-driving-quiet-failures-in-ai-1b5741e1d089)
 - [Agentic Orchestration in Modular AI: Designing Systems That Evolve](https://medium.com/ai-in-plain-english/agentic-orchestration-in-modular-ai-designing-systems-that-evolve-af51970e1291)
 - [Adaptive AI Governance: Shaping Systems That Evolve Responsibly](https://medium.com/ai-in-plain-english/adaptive-ai-governance-shaping-systems-that-evolve-responsibly-fb242bbfdd81)
@@ -24,6 +24,7 @@ I'm not a software developer, but I love to build and experiment with new techno
 - [ByteMeSumAI: Toolkit for Building Robust and Context-Aware AI](https://github.com/Kris-Nale314/ByteMeSumAI)
 - [HalluciNOT: Toolkit to Verify LLM Outputs Against Source Materials](https://github.com/Kris-Nale314/HalluciNOT)
 - [Agentic-Explorer: Agentic AI in Action & Under the Hood](https://github.com/Kris-Nale314/agentic-explorer)
+- [Note-Summarizer: Streamlit app to create notes from long text with Agentic AI](https://github.com/Kris-Nale314/note-summarizer)
 
 ## 🤖 Spotlight: ByteMeSumAI - Python Package available on PyPi
 
