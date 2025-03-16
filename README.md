@@ -139,7 +139,9 @@ I thrive at the intersection of ideas, believing the most innovative solutions e
 ## AI Product Development Complexity Evolution
 
 <div align="center">
+
 <img src="https://raw.githubusercontent.com/kris-nale314/datasets/main/images/AI_evolution.svg" alt="AI Production Development Complexity" width="400" height="400"/>
+
 </div>
 
 ## 📫 Connect With Me
