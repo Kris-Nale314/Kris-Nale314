@@ -8,7 +8,7 @@ I'm not a software developer, but I love to build and experiment with new techno
 
 > "I believe in building AI systems that adapt, evolve, and create tangible value while remaining ethically grounded."
 
-## ✍️ Recent Publications
+## ✍️ Recent Publications on AI, Product Development, and Building AI Systems 
 
 - [ByteMeSumAI: A Modular Python Toolkit for Architecture-Aware Document Processing in Agentic AI](https://medium.com/generative-ai/bytemesumai-a-modular-python-toolkit-for-document-processing-in-agentic-ai-00a374496125)
 - [Words Matter: Are Language Barriers Driving Quiet Failures in AI?](https://pub.towardsai.net/words-matter-are-language-barriers-driving-quiet-failures-in-ai-1b5741e1d089)
@@ -17,7 +17,8 @@ I'm not a software developer, but I love to build and experiment with new techno
 - [Advanced Retrieval Mechanisms for AI Systems: Lessons from Financial Services](https://medium.com/ai-advances/advanced-retrieval-mechanisms-for-ai-systems-lessons-from-financial-services-fe4dae414386)
 
 
-## 🔭 Featured Projects: Think Big, Start Small...and Iteratively Add & Expand...
+## 🔭 Featured Projects on GitHub
+### Think Big, Start Small...and Iteratively Add & Expand...
 
 *I'm in the process of open-sourcing selected projects from my work:*
 
@@ -25,6 +26,8 @@ I'm not a software developer, but I love to build and experiment with new techno
 - [HalluciNOT: Toolkit to Verify LLM Outputs Against Source Materials](https://github.com/Kris-Nale314/HalluciNOT)
 - [Agentic-Explorer: Agentic AI in Action & Under the Hood](https://github.com/Kris-Nale314/agentic-explorer)
 - [Note-Summarizer: Streamlit app to create notes from long text with Agentic AI](https://github.com/Kris-Nale314/note-summarizer)
+- [Vision-KitAI: An environment for exploring Computer Vision models, frameworks, and techniques.](https://github.com/Kris-Nale314/Vision-KitAI)
+
 
 ## 🤖 Spotlight: ByteMeSumAI - Python Package available on PyPi
 
