@@ -1,6 +1,6 @@
 # Hi, I'm Kris 👋 
 
-## 🚀 AI Strategy | Governance | Collaboration
+## 🚀 AI Strategy | Governance | Collaboration | Product Innovation
 
 Data scientist, consultant - working at the intersection of emerging tech and driving value. 
 
@@ -23,46 +23,44 @@ I'm not a software developer, but I love to build and experiment with new techno
 
 *I'm in the process of open-sourcing selected projects from my work:*
 
-- [ByteMeSumAI: Toolkit for Building Robust and Context-Aware AI](https://github.com/Kris-Nale314/ByteMeSumAI)
-- [HalluciNOT: Toolkit to Verify LLM Outputs Against Source Materials](https://github.com/Kris-Nale314/HalluciNOT)
-- [Agentic-Explorer: Agentic AI in Action & Under the Hood](https://github.com/Kris-Nale314/agentic-explorer)
-- [Note-Summarizer: Streamlit app to create notes from long text with Agentic AI](https://github.com/Kris-Nale314/note-summarizer)
-- [Vision-KitAI: An environment for exploring Computer Vision models, frameworks, and techniques.](https://github.com/Kris-Nale314/Vision-KitAI)
+- [📝 Better-Notes: Multi-Agent Document Analysis System](https://github.com/Kris-Nale314/better-notes)
+- [💫 ByteMeSumAI: Toolkit for Building Robust and Context-Aware AI](https://github.com/Kris-Nale314/ByteMeSumAI)
+- [🍄 HalluciNOT: Toolkit to Verify LLM Outputs Against Source Materials](https://github.com/Kris-Nale314/HalluciNOT)
+- [♻️ Agentic-Explorer: Agentic AI in Action & Under the Hood](https://github.com/Kris-Nale314/agentic-explorer)
+- [👀 Vision-KitAI: An environment for exploring Computer Vision models, frameworks, and techniques.](https://github.com/Kris-Nale314/Vision-KitAI)
 
 
-## 🤖 Spotlight: ByteMeSumAI - Python Package available on PyPi
+## 🤖 Spotlight: 📝 Better-Notes - Agentic Document Analysis System
 
-<p align="center"><strong>Building Blocks for Robust and Context-Aware AI Systems</strong></p>
-
+<p align="center"><strong>Transform Documents into Structured Insights with Collaborative AI Agents</strong></p>
 
 <table align="center">
 <tr>
 <td width="50%">
 
-### Intelligent Chunking
-- Boundary-aware segmentation
-- Semantic coherence preservation
-- Sentence integrity protection
-- Document structure analysis
+### Specialized Agent Architecture
+- **Planner Agent**: Acts as meta-agent to coordinate specialized analysis
+- **Agent Crews**: Configurable teams with specialized roles
+- **Metadata Layering**: Progressive enrichment through analysis pipeline
+- **Macro-Chunking**: Processes documents up to 100k tokens with context preservation
 
 </td>
 <td width="50%">
 
-### Advanced Summarization
-- Multi-strategy summarization
-- Entity-focused analysis
-- Temporal relationship preservation
-- Cross-document comparison
+### User Experience Features
+- **Issues Analysis**: Identify and prioritize problems by severity
+- **Post-Analysis Chat**: Natural conversation with document context
+- **Analysis Refinement**: Adjust focus areas and parameters on demand
+- **Modular Extensibility**: JSON-configurable for new analysis types
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-<img src="https://raw.githubusercontent.com/kris-nale314/bytemesumai/main/docs/images/advanced_workflow.svg" alt="ByteMeSumAI Architecture" width="80%"/>
+<img src="https://raw.githubusercontent.com/kris-nale314/better-notes/main/docs/images/logic.svg" alt="Better-Notes Architecture" width="80%"/>
 </td>
 </tr>
 </table>
-
 
 ## 💡 Research Interests
 
@@ -72,6 +70,28 @@ I'm not a software developer, but I love to build and experiment with new techno
 - **Cross-domain Applications**: Exploring how AI creates value across finance, government, and supply chain
 - **AI Governance**: Building frameworks that balance innovation with responsibility
 
+## 🔬 My Approach: Learn by Building
+
+I believe in **practical experimentation** as the foundation for effective AI strategy. By getting my hands dirty with code and building real systems, I develop insights that can't be gained from theory alone. This hands-on approach allows me to:
+
+- **Bridge the gap** between technical possibilities and business needs
+- **Accelerate learning** through direct experimentation with emerging techniques
+- **Identify practical challenges** that only become visible during implementation
+- **Create proof-of-concepts** that demonstrate value before large investments
+
+> "The difference between theory and practice is greater in practice than in theory."
+
+## 🧪 My Experimentation Process
+
+When exploring new AI techniques or architectures, I follow a systematic approach:
+
+1. **Rapid Prototyping**: Build minimal versions to validate core concepts
+2. **Component Testing**: Isolate and validate each part of the system
+3. **Architecture Refinement**: Iteratively improve structure based on findings
+4. **UI/UX Enhancement**: Make the technology accessible through intuitive interfaces
+5. **Documentation & Sharing**: Create clear documentation to help others build on my work
+
+This process lets me quickly explore ideas while developing deeper understanding that informs my work.
 
 ## 🌟 Inspirations & Favorite Projects
 
@@ -82,15 +102,6 @@ Here are some places to explore that have some great projects:
 [![STORM](https://img.shields.io/badge/STORM-8C1515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stanford-oval/storm)
 [![OpenAI Cookbook](https://img.shields.io/badge/OpenAI_Cookbook-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/openai/openai-cookbook)
 [![Landing AI](https://img.shields.io/badge/Landing_AI-00A36C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/landing-ai)
-
-## 🤝 Collaboration Philosophy
-
-I thrive at the intersection of ideas, believing the most innovative solutions emerge when we combine diverse perspectives. My approach to collaboration:
-
-- Build cross-functional teams that blend technical expertise with domain knowledge
-- Create rapid prototyping environments that encourage experimentation
-- Maintain open communication channels to share learnings and insights
-- Focus on practical implementations that deliver measurable value
 
 
 ## 💻 Technical Skills
@@ -140,13 +151,15 @@ I thrive at the intersection of ideas, believing the most innovative solutions e
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kris-nale314&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## AI Product Development Complexity Evolution
 
-<div align="center">
+## 🤝 Collaboration Philosophy
 
-<img src="https://raw.githubusercontent.com/kris-nale314/datasets/main/images/AI_evolution.svg" alt="AI Production Development Complexity" width="400" height="400"/>
+I thrive at the intersection of ideas, believing the most innovative solutions emerge when we combine diverse perspectives. My approach to collaboration:
 
-</div>
+- Build cross-functional teams that blend technical expertise with domain knowledge
+- Create rapid prototyping environments that encourage experimentation
+- Maintain open communication channels to share learnings and insights
+- Focus on practical implementations that deliver measurable value
 
 ## 📫 Connect With Me
 
