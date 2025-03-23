@@ -10,12 +10,13 @@ I'm not a software developer, but I love to build and experiment with new techno
 
 ## ✍️ Recent Publications on AI, Product Development, and Building AI Systems 
 
-- [Level Up Your AI Products: Why Reusable Components Aren’t Just a Nice-to-Have](https://medium.com/generative-ai/level-up-your-ai-products-why-reusable-components-arent-just-a-nice-to-have-b4e296096f02)
-- [ByteMeSumAI: A Modular Python Toolkit for Architecture-Aware Document Processing in Agentic AI](https://medium.com/generative-ai/bytemesumai-a-modular-python-toolkit-for-document-processing-in-agentic-ai-00a374496125)
-- [Words Matter: Are Language Barriers Driving Quiet Failures in AI?](https://pub.towardsai.net/words-matter-are-language-barriers-driving-quiet-failures-in-ai-1b5741e1d089)
-- [Agentic Orchestration in Modular AI: Designing Systems That Evolve](https://medium.com/ai-in-plain-english/agentic-orchestration-in-modular-ai-designing-systems-that-evolve-af51970e1291)
-- [Adaptive AI Governance: Shaping Systems That Evolve Responsibly](https://medium.com/ai-in-plain-english/adaptive-ai-governance-shaping-systems-that-evolve-responsibly-fb242bbfdd81)
-- [Advanced Retrieval Mechanisms for AI Systems: Lessons from Financial Services](https://medium.com/ai-advances/advanced-retrieval-mechanisms-for-ai-systems-lessons-from-financial-services-fe4dae414386)
+- [⁉️ Level Up Your AI Products: Why Reusable Components Aren’t Just a Nice-to-Have](https://medium.com/generative-ai/level-up-your-ai-products-why-reusable-components-arent-just-a-nice-to-have-b4e296096f02)
+- [💫 ByteMeSumAI: A Modular Python Toolkit for Architecture-Aware Document Processing in Agentic AI](https://medium.com/generative-ai/bytemesumai-a-modular-python-toolkit-for-document-processing-in-agentic-ai-00a374496125)
+- [🗣️ Words Matter: Are Language Barriers Driving Quiet Failures in AI?](https://pub.towardsai.net/words-matter-are-language-barriers-driving-quiet-failures-in-ai-1b5741e1d089)
+- [🦄 Agentic Orchestration in Modular AI: Designing Systems That Evolve](https://medium.com/ai-in-plain-english/agentic-orchestration-in-modular-ai-designing-systems-that-evolve-af51970e1291)
+- [🦎 Adaptive AI Governance: Shaping Systems That Evolve Responsibly](https://medium.com/ai-in-plain-english/adaptive-ai-governance-shaping-systems-that-evolve-responsibly-fb242bbfdd81)
+- [💸 Advanced Retrieval Mechanisms for AI Systems: Lessons from Financial Services](https://medium.com/ai-advances/advanced-retrieval-mechanisms-for-ai-systems-lessons-from-financial-services-fe4dae414386)
+
 
 
 ## 🔭 Featured Projects on GitHub
@@ -30,7 +31,9 @@ I'm not a software developer, but I love to build and experiment with new techno
 - [👀 Vision-KitAI: An environment for exploring Computer Vision models, frameworks, and techniques.](https://github.com/Kris-Nale314/Vision-KitAI)
 
 
-## 🤖 Spotlight: 📝 Better-Notes - Agentic Document Analysis System
+# 🤖 Project Spotlight 
+## 📝 Better-Notes  
+### Agentic Document Analysis System
 
 <p align="center"><strong>Transform Documents into Structured Insights with Collaborative AI Agents</strong></p>
 
