@@ -24,7 +24,7 @@ I'm not a software developer, but I love to build and experiment with new techno
 
 *I'm in the process of open-sourcing selected projects from my work:*
 
-- [📝 Better-Notes: Multi-Agent Document Analysis System](https://github.com/Kris-Nale314/better-notes)
+- [📝 Beyond-Notes: Multi-Agent Document Analysis System](https://github.com/Kris-Nale314/beyond-notes)
 - [💫 ByteMeSumAI: Toolkit for Building Robust and Context-Aware AI](https://github.com/Kris-Nale314/ByteMeSumAI)
 - [🍄 HalluciNOT: Toolkit to Verify LLM Outputs Against Source Materials](https://github.com/Kris-Nale314/HalluciNOT)
 - [♻️ Agentic-Explorer: Agentic AI in Action & Under the Hood](https://github.com/Kris-Nale314/agentic-explorer)
@@ -32,7 +32,7 @@ I'm not a software developer, but I love to build and experiment with new techno
 
 
 ## 🤖 Project Spotlight 
-## 📝 Better-Notes: Agentic Document Analysis System
+## 📝 Beyond-Notes: Agentic Document Analysis System
 
 <p align="center"><strong>Transform Documents into Structured Insights with Collaborative AI Agents</strong></p>
 
@@ -41,8 +41,8 @@ I'm not a software developer, but I love to build and experiment with new techno
 <td width="50%">
 
 ### Specialized Agent Architecture
-- **Planner Agent**: Acts as meta-agent to coordinate specialized analysis
-- **Agent Crews**: Configurable teams with specialized roles
+- **Planner Agent**: Analyzes document preview and creates a strategic plan
+- **Agent Crews**: Configurable specialized agents that colaborate
 - **Metadata Layering**: Progressive enrichment through analysis pipeline
 - **Macro-Chunking**: Processes documents up to 100k tokens with context preservation
 
@@ -50,7 +50,7 @@ I'm not a software developer, but I love to build and experiment with new techno
 <td width="50%">
 
 ### User Experience Features
-- **Issues Analysis**: Identify and prioritize problems by severity
+- **Model Context Protocol**:  Shared "brain" of the system enabling across agent data access
 - **Post-Analysis Chat**: Natural conversation with document context
 - **Analysis Refinement**: Adjust focus areas and parameters on demand
 - **Modular Extensibility**: JSON-configurable for new analysis types
@@ -59,7 +59,7 @@ I'm not a software developer, but I love to build and experiment with new techno
 </tr>
 <tr>
 <td colspan="2" align="center">
-<img src="https://raw.githubusercontent.com/kris-nale314/better-notes/main/docs/images/logic.svg" alt="Better-Notes Architecture" width="80%"/>
+<img src="https://raw.githubusercontent.com/kris-nale314/beyond-notes/main/docs/images/beyondLogic.svg" alt="Beyond-Notes Architecture" width="80%"/>
 </td>
 </tr>
 </table>
