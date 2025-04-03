@@ -59,7 +59,7 @@ I'm not a software developer, but I love to build and experiment with new techno
 </tr>
 <tr>
 <td colspan="2" align="center">
-<img src="https://raw.githubusercontent.com/kris-nale314/beyond-notes/main/docs/images/beyondLogic.svg" alt="Beyond-Notes Architecture" width="80%"/>
+<img src="https://raw.githubusercontent.com/kris-nale314/beyond-notes/main/docs/images/beyondLogic.png" alt="Beyond-Notes Architecture" width="80%"/>
 </td>
 </tr>
 </table>
