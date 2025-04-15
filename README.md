@@ -10,17 +10,40 @@ I'm not a traditional software developer – I'm a builder, experimenter, and st
 
 > "I believe in building AI systems that adapt, evolve, and create tangible value while remaining ethically grounded."
 
-### 🎯 Decision Enhancement, Not Just Automation
-I design AI systems that **enhance human decision-making** rather than simply automating tasks. This means creating systems that provide **multi-resolution information access**, preserve **contextual understanding**, and **complement human expertise** instead of attempting to replace it.
+## 🧠 My AI Design Philosophy
 
-### 🌱 Design for Evolution, Not Static Deployment
-Effective AI systems must be designed from the start to **evolve continuously** as models, data, and requirements change. I build **modular architectures** with replaceable components, **continuous monitoring** capabilities, and clear **feedback pathways** that allow systems to adapt over time.
+> "I believe in building AI systems that adapt, evolve, and create tangible value while remaining ethically grounded."
 
-### ⚖️ Right-Sized Solutions, Not Technical Showcases
-The most appropriate AI approach **balances sophistication with sustainability** and practical value. I focus on **matching technical approaches to actual needs** rather than pursuing cutting-edge technology for its own sake, ensuring **long-term viability** and clear ROI.
+## 🧠 My AI Design Philosophy
 
-### 🤝 Collaborative Development Across Disciplines
-Successful AI implementation requires **bridging technical capabilities with domain expertise**. I create environments where **data scientists, subject matter experts, and business stakeholders** can effectively collaborate, ensuring solutions address **real-world complexities**.
+> "I believe in building AI systems that adapt, evolve, and create tangible value while remaining ethically grounded."
+
+<table>
+<tr>
+<td width="50%" align="center"><h3>🎯 Decision Enhancement,<br>Not Just Automation</h3></td>
+<td width="50%" align="center"><h3>🌱 Design for Evolution,<br>Not Static Deployment</h3></td>
+</tr>
+<tr>
+<td>
+I design AI systems that <b>enhance human decision-making</b> rather than simply automating tasks. This means creating systems that provide <b>multi-resolution information access</b>, preserve <b>contextual understanding</b>, and <b>complement human expertise</b> instead of attempting to replace it.
+</td>
+<td>
+Effective AI systems must be designed from the start to <b>evolve continuously</b> as models, data, and requirements change. I build <b>modular architectures</b> with replaceable components, <b>continuous monitoring</b> capabilities, and clear <b>feedback pathways</b> that allow systems to adapt over time.
+</td>
+</tr>
+<tr>
+<td width="50%" align="center"><h3>⚖️ Right-Sized Solutions,<br>Not Technical Showcases</h3></td>
+<td width="50%" align="center"><h3>🤝 Collaborative Development<br>Across Disciplines</h3></td>
+</tr>
+<tr>
+<td>
+The most appropriate AI approach <b>balances sophistication with sustainability</b> and practical value. I focus on <b>matching technical approaches to actual needs</b> rather than pursuing cutting-edge technology for its own sake, ensuring <b>long-term viability</b> and clear ROI.
+</td>
+<td>
+Successful AI implementation requires <b>bridging technical capabilities with domain expertise</b>. I create environments where <b>data scientists, subject matter experts, and business stakeholders</b> can effectively collaborate, ensuring solutions address <b>real-world complexities</b>.
+</td>
+</tr>
+</table>
 
 ## 🔭 Projects & Experiments
 
@@ -69,7 +92,7 @@ Each project demonstrates different aspects of my AI design philosophy:
 - **Technical Highlight**: Macro-chunking that preserves context for documents up to 100k tokens
 
 <p align="center">
-<img src="https://github.com/Kris-Nale314/beyond-notes/blob/main/docs/images/bnScreen1.png" alt="Beyond Notes Screenshots" width="100%"/>
+<img src="https://github.com/Kris-Nale314/beyond-notes/blob/main/docs/images/bnScreen1.png" alt="Beyond Notes Screenshots" width="70%"/>
 </p>
 
 #### [💫 ByteMeSumAI](https://github.com/Kris-Nale314/ByteMeSumAI)
@@ -107,12 +130,19 @@ This process accelerates learning while revealing practical challenges that only
 ### Current Research Interests
 
 **🧩 Modular AI Architectures**: Developing component-based systems that can evolve independently while maintaining integration integrity
+
 **🤖 Multi-Agent Orchestration**: Creating frameworks for agent collaboration that balance autonomy with coordination
+
 **🔍 Advanced Retrieval Systems**: Designing hierarchical, context-aware retrieval methods that enhance precision while preserving broad knowledge access
+
 **🖼️ Multimodal AI Integration**: Exploring how text, image, and video understanding can be combined for richer AI capabilities
+
 **🛡️ AI Safety & Alignment**: Implementing practical approaches to ensure AI systems remain aligned with human values as they evolve
+
 **📊 Explainable AI Decisions**: Building transparency mechanisms that make complex AI decisions intelligible to various stakeholders
+
 **🔄 Continuous Learning Systems**: Developing architectures that learn and adapt from operational feedback without destabilizing
+
 
 ## 🤝 Collaboration Philosophy
 
