@@ -2,158 +2,94 @@
 
 ## 🚀 AI Strategy | Governance | Collaboration | Product Innovation
 
-Data scientist, consultant - working at the intersection of emerging tech and driving value. 
+I work at the intersection of emerging AI technology and practical value creation, helping organizations design, build, and deploy AI systems that adapt and evolve while delivering measurable impact.
 
-I'm not a software developer, but I love to build and experiment with new technologies, techniques, and frameworks to stay on top of the crazy world of AI. I focus on helping organizations design, build, and deploy AI systems that can adapt and evolve while fostering collaboration to drive innovation.
+I'm not a traditional software developer – I'm a builder, experimenter, and strategic thinker who gets his hands dirty with code to discover insights that can't be gained from theory alone. This hands-on approach allows me to bridge the gap between technical possibilities and business realities.
+
+## ♟️ My AI Design Philosophy 🦾
 
 > "I believe in building AI systems that adapt, evolve, and create tangible value while remaining ethically grounded."
 
-## ✍️ Recent Publications on AI, Product Development, and Building AI Systems 
+### 🎯 Decision Enhancement, Not Just Automation
+I design AI systems that **enhance human decision-making** rather than simply automating tasks. This means creating systems that provide **multi-resolution information access**, preserve **contextual understanding**, and **complement human expertise** instead of attempting to replace it.
 
-- [⁉️ Level Up Your AI Products: Why Reusable Components Aren’t Just a Nice-to-Have](https://medium.com/generative-ai/level-up-your-ai-products-why-reusable-components-arent-just-a-nice-to-have-b4e296096f02)
+### 🌱 Design for Evolution, Not Static Deployment
+Effective AI systems must be designed from the start to **evolve continuously** as models, data, and requirements change. I build **modular architectures** with replaceable components, **continuous monitoring** capabilities, and clear **feedback pathways** that allow systems to adapt over time.
+
+### ⚖️ Right-Sized Solutions, Not Technical Showcases
+The most appropriate AI approach **balances sophistication with sustainability** and practical value. I focus on **matching technical approaches to actual needs** rather than pursuing cutting-edge technology for its own sake, ensuring **long-term viability** and clear ROI.
+
+### 🤝 Collaborative Development Across Disciplines
+Successful AI implementation requires **bridging technical capabilities with domain expertise**. I create environments where **data scientists, subject matter experts, and business stakeholders** can effectively collaborate, ensuring solutions address **real-world complexities**.
+
+## 🔭 Featured Projects
+
+Each project demonstrates aspects of my AI design philosophy in action:
+
+### [🍎 Learning-Lab-AI](https://github.com/Kris-Nale314/learning-lab-ai)
+**Framework Assessment Workbench with Multi-Agent Intelligence**
+- **Philosophy in Action**: Decision enhancement through multi-resolution information presentation
+- **Key Innovation**: Dynamic assessment strategy planning based on document and framework characteristics
+- **Technical Highlight**: Configurable agent architecture with shared context protocol
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/kris-nale314/learning-lab-ai/main/docs/images/logicLearningLabAI.png" alt="Framework Assessment Flow" width="70%"/>
+</p>
+
+### [📝 Beyond-Notes](https://github.com/Kris-Nale314/beyond-notes)
+**Multi-Agent Document Analysis System**
+- **Philosophy in Action**: Collaborative development with domain-expert interaction points
+- **Key Innovation**: Progressive metadata enrichment through specialized agent crews
+- **Technical Highlight**: Macro-chunking that preserves context for long documents over 100k tokens
+
+<p align="center">
+<img src="https://github.com/Kris-Nale314/beyond-notes/blob/main/docs/images/beyondLogic.png" alt="Beyond Notes Architecture" width="70%"/>
+</p>
+
+### [💫 ByteMeSumAI](https://github.com/Kris-Nale314/ByteMeSumAI)
+**Modular Toolkit for Context-Aware Document Processing**
+- **Philosophy in Action**: Design for evolution with independently upgradable components
+- **Key Innovation**: Architecture-aware processing that adapts to document structure
+- **Technical Highlight**: Configurable chunking and embedding strategies for different document types
+
+### [🍄 HalluciNOT](https://github.com/Kris-Nale314/HalluciNOT)
+**Verification Toolkit for LLM Outputs**
+- **Philosophy in Action**: Right-sized solutions for critical verification needs
+- **Key Innovation**: Multi-level verification that balances performance with accuracy
+- **Technical Highlight**: Source-grounded evaluation with configurable confidence thresholds
+
+## ✍️ Recent Publications
+
+- [⁉️ Level Up Your AI Products: Why Reusable Components Aren't Just a Nice-to-Have](https://medium.com/generative-ai/level-up-your-ai-products-why-reusable-components-arent-just-a-nice-to-have-b4e296096f02)
 - [💫 ByteMeSumAI: A Modular Python Toolkit for Architecture-Aware Document Processing in Agentic AI](https://medium.com/generative-ai/bytemesumai-a-modular-python-toolkit-for-document-processing-in-agentic-ai-00a374496125)
-- [🗣️  Words Matter: Are Language Barriers Driving Quiet Failures in AI?](https://pub.towardsai.net/words-matter-are-language-barriers-driving-quiet-failures-in-ai-1b5741e1d089)
-- [🦄  Agentic Orchestration in Modular AI: Designing Systems That Evolve](https://medium.com/ai-in-plain-english/agentic-orchestration-in-modular-ai-designing-systems-that-evolve-af51970e1291)
-- [🦎  Adaptive AI Governance: Shaping Systems That Evolve Responsibly](https://medium.com/ai-in-plain-english/adaptive-ai-governance-shaping-systems-that-evolve-responsibly-fb242bbfdd81)
-- [💸  Advanced Retrieval Mechanisms for AI Systems: Lessons from Financial Services](https://medium.com/ai-advances/advanced-retrieval-mechanisms-for-ai-systems-lessons-from-financial-services-fe4dae414386)
+- [🗣️ Words Matter: Are Language Barriers Driving Quiet Failures in AI?](https://pub.towardsai.net/words-matter-are-language-barriers-driving-quiet-failures-in-ai-1b5741e1d089)
+- [🦄 Agentic Orchestration in Modular AI: Designing Systems That Evolve](https://medium.com/ai-in-plain-english/agentic-orchestration-in-modular-ai-designing-systems-that-evolve-af51970e1291)
+- [🦎 Adaptive AI Governance: Shaping Systems That Evolve Responsibly](https://medium.com/ai-in-plain-english/adaptive-ai-governance-shaping-systems-that-evolve-responsibly-fb242bbfdd81)
+- [💸 Advanced Retrieval Mechanisms for AI Systems: Lessons from Financial Services](https://medium.com/ai-advances/advanced-retrieval-mechanisms-for-ai-systems-lessons-from-financial-services-fe4dae414386)
 
+## 🔬 Research & Experimentation Approach
 
+I believe in **learning by building** – using practical experimentation as the foundation for effective AI strategy. My systematic approach to exploring new AI architectures follows a cycle of:
 
-## 🔭 Featured Projects on GitHub
-### Think Big, Start Small...and Iteratively Add & Expand...
+1. **Rapid Prototyping** → **Component Testing** → **Architecture Refinement** → **UI/UX Enhancement** → **Documentation & Sharing**
 
-*I'm in the process of open-sourcing selected projects from my work:*
+This process accelerates learning while revealing practical challenges that only become visible during implementation.
 
-- [🍎 Learning-Lab-AI: Structured Framework Assessments with Multi-Agent Intelligence](https://github.com/Kris-Nale314/learning-lab-ai)
-- [📝 Beyond-Notes: Multi-Agent Document Analysis System](https://github.com/Kris-Nale314/beyond-notes)
-- [💫 ByteMeSumAI: Toolkit for Building Robust and Context-Aware AI](https://github.com/Kris-Nale314/ByteMeSumAI)
-- [🍄 HalluciNOT: Toolkit to Verify LLM Outputs Against Source Materials](https://github.com/Kris-Nale314/HalluciNOT)
-- [♻️ Agentic-Explorer: Agentic AI in Action & Under the Hood](https://github.com/Kris-Nale314/agentic-explorer)
-- [👀 Vision-KitAI: An environment for exploring Computer Vision models, frameworks, and techniques.](https://github.com/Kris-Nale314/Vision-KitAI)
+### Current Research Interests
 
+- **🧩 Modular AI Architectures**: Developing component-based systems that can evolve independently while maintaining integration integrity
+  
+- **🤖 Multi-Agent Orchestration**: Creating frameworks for agent collaboration that balance autonomy with coordination
 
-## 🤖 Project Spotlight 
-## 🧠 Learning Lab AI: Structured Framework Assessment Workbench with Multi-Agent Intelligence
+- **🔍 Advanced Retrieval Systems**: Designing hierarchical, context-aware retrieval methods that enhance precision while preserving broad knowledge access
 
-<p align="center"><strong>Transform Unstructured Documents into Structured Framework Assessments with Multi-Agent Intelligence</strong></p>
+- **🖼️ Multimodal AI Integration**: Exploring how text, image, and video understanding can be combined for richer AI capabilities
 
-<table align="center">
-<tr>
-<td width="50%">
+- **🛡️ AI Safety & Alignment**: Implementing practical approaches to ensure AI systems remain aligned with human values as they evolve
 
-### Dynamic Multi-Agent Architecture
-- **Meta Planner Agent**: Designs custom assessment strategies for each document-framework pair
-- **Specialized Extractors**: Identify and categorize evidence with precision and context awareness
-- **Shared Context Protocol**: Enables seamless agent collaboration with evidence traceability
-- **Assessment Type Distinction**: Clearly differentiates between direct and inferred ratings
+- **📊 Explainable AI Decisions**: Building transparency mechanisms that make complex AI decisions intelligible to various stakeholders
 
-</td>
-<td width="50%">
-
-### Advanced Assessment Features
-- **Evidence Categorization**: Classifies by relevance level and sentiment for nuanced evaluation
-- **Confidence Calibration**: Provides transparency about assessment reliability
-- **Interactive Visualizations**: Explore evidence distribution and assessment patterns
-- **Professional Reporting**: Structured scorecards with clear strengths and improvement areas
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="https://raw.githubusercontent.com/kris-nale314/learning-lab-ai/main/docs/images/logicLearningLabAI.png" alt="Framework Assessment Workbench Flow" width="90%"/>
-</td>
-</tr>
-</table>
-
-## 💡 Research Interests
-
-- **Modular AI Systems**: Designing flexible, evolving architectures that adapt to changing conditions
-- **Interactive AI Tools**: Experimenting with multi-agent systems to enhance learning and transparency in AI processes
-- **Retrieval Mechanisms**: Enhancing context and accuracy in AI systems' information retrieval
-- **Cross-domain Applications**: Exploring how AI creates value across finance, government, and supply chain
-- **AI Governance**: Building frameworks that balance innovation with responsibility
-
-## 🔬 My Approach: Learn by Building
-
-I believe in **practical experimentation** as the foundation for effective AI strategy. By getting my hands dirty with code and building real systems, I develop insights that can't be gained from theory alone. This hands-on approach allows me to:
-
-- **Bridge the gap** between technical possibilities and business needs
-- **Accelerate learning** through direct experimentation with emerging techniques
-- **Identify practical challenges** that only become visible during implementation
-- **Create proof-of-concepts** that demonstrate value before large investments
-
-> "The difference between theory and practice is greater in practice than in theory."
-
-## 🧪 My Experimentation Process
-
-When exploring new AI techniques or architectures, I follow a systematic approach:
-
-1. **Rapid Prototyping**: Build minimal versions to validate core concepts
-2. **Component Testing**: Isolate and validate each part of the system
-3. **Architecture Refinement**: Iteratively improve structure based on findings
-4. **UI/UX Enhancement**: Make the technology accessible through intuitive interfaces
-5. **Documentation & Sharing**: Create clear documentation to help others build on my work
-
-This process lets me quickly explore ideas while developing deeper understanding that informs my work.
-
-## 🌟 Inspirations & Favorite Projects
-
-Here are some places to explore that have some great projects:
-
-[![LangChain](https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logo=langchain&logoColor=white)](https://github.com/langchain-ai/langchain)
-[![Sebastian Raschka](https://img.shields.io/badge/Sebastian_Raschka-E4405F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rasbt)
-[![STORM](https://img.shields.io/badge/STORM-8C1515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stanford-oval/storm)
-[![OpenAI Cookbook](https://img.shields.io/badge/OpenAI_Cookbook-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/openai/openai-cookbook)
-[![Landing AI](https://img.shields.io/badge/Landing_AI-00A36C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/landing-ai)
-
-
-## 💻 Technical Skills
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-### General Tools and Services
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![NVIDIA AI](https://img.shields.io/badge/NVIDIA_AI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### Natural Language Processing and LLMs
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0065A2?style=for-the-badge&logoColor=white)
-![NVIDIA NeMo](https://img.shields.io/badge/NVIDIA_NeMo-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-4255FF?style=for-the-badge&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logo=langchain&logoColor=white)
-
-### Serving and Testing
-![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF8A65?style=for-the-badge&logo=gradio&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-
-### Project Management
-![Agile](https://img.shields.io/badge/Agile-47A248?style=for-the-badge&logo=agile&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-
-
-## 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kris-nale314&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+- **🔄 Continuous Learning Systems**: Developing architectures that learn and adapt from operational feedback without destabilizing
 
 ## 🤝 Collaboration Philosophy
 
@@ -164,6 +100,30 @@ I thrive at the intersection of ideas, believing the most innovative solutions e
 - Maintain open communication channels to share learnings and insights
 - Focus on practical implementations that deliver measurable value
 
+## 💻 Technical Skills
+
+### Languages & Core Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Machine Learning & AI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0065A2?style=for-the-badge&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-4255FF?style=for-the-badge&logoColor=white)
+
+### Development & Deployment
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
 ## 📫 Connect With Me
 
 I'm always open to discussing new ideas, collaborations, or opportunities to create value with AI:
@@ -173,7 +133,6 @@ I'm always open to discussing new ideas, collaborations, or opportunities to cre
 
 ---
 
-*"The best way to predict the future is to build it. The responsible way is to build it together."*
+*"The difference between theory and practice is greater in practice than in theory."*
 
-<!-- Visitor count badge -->
 ![Profile views](https://komarev.com/ghpvc/?username=kris-nale314&color=brightgreen&style=flat-square)
