@@ -11,7 +11,7 @@ I'm not a traditional software developer – I'm a builder, experimenter, and st
 > "I believe in building AI systems that adapt, evolve, and create tangible value while remaining ethically grounded."
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kris-Nale314/learning-lab-ai/main/docs/images/aiDesign.png" alt="AI Design Philosophy" width="60%"/>
+  <img src="https://raw.githubusercontent.com/Kris-Nale314/learning-lab-ai/main/docs/images/aiDesign.png" alt="AI Design Philosophy" width="80%"/>
 </p>
 
 ## 🔭 Projects & Experiments
