@@ -24,6 +24,7 @@ I'm not a software developer, but I love to build and experiment with new techno
 
 *I'm in the process of open-sourcing selected projects from my work:*
 
+- [🍎 Learning-Lab-AI: Structured Framework Assessments with Multi-Agent Intelligence](https://github.com/Kris-Nale314/learning-lab-ai)
 - [📝 Beyond-Notes: Multi-Agent Document Analysis System](https://github.com/Kris-Nale314/beyond-notes)
 - [💫 ByteMeSumAI: Toolkit for Building Robust and Context-Aware AI](https://github.com/Kris-Nale314/ByteMeSumAI)
 - [🍄 HalluciNOT: Toolkit to Verify LLM Outputs Against Source Materials](https://github.com/Kris-Nale314/HalluciNOT)
@@ -32,34 +33,34 @@ I'm not a software developer, but I love to build and experiment with new techno
 
 
 ## 🤖 Project Spotlight 
-## 📝 Beyond-Notes: Agentic Document Analysis System
+## 🧠 Learning Lab AI: Structured Framework Assessment Workbench with Multi-Agent Intelligence
 
-<p align="center"><strong>Transform Documents into Structured Insights with Collaborative AI Agents</strong></p>
+<p align="center"><strong>Transform Unstructured Documents into Structured Framework Assessments with Multi-Agent Intelligence</strong></p>
 
 <table align="center">
 <tr>
 <td width="50%">
 
-### Specialized Agent Architecture
-- **Planner Agent**: Analyzes document preview and creates a strategic plan
-- **Agent Crews**: Configurable specialized agents that colaborate
-- **Metadata Layering**: Progressive enrichment through analysis pipeline
-- **Macro-Chunking**: Processes documents up to 100k tokens with context preservation
+### Dynamic Multi-Agent Architecture
+- **Meta Planner Agent**: Designs custom assessment strategies for each document-framework pair
+- **Specialized Extractors**: Identify and categorize evidence with precision and context awareness
+- **Shared Context Protocol**: Enables seamless agent collaboration with evidence traceability
+- **Assessment Type Distinction**: Clearly differentiates between direct and inferred ratings
 
 </td>
 <td width="50%">
 
-### User Experience Features
-- **Model Context Protocol**:  Shared "brain" of the system enabling across agent data access
-- **Post-Analysis Chat**: Natural conversation with document context
-- **Analysis Refinement**: Adjust focus areas and parameters on demand
-- **Modular Extensibility**: JSON-configurable for new analysis types
+### Advanced Assessment Features
+- **Evidence Categorization**: Classifies by relevance level and sentiment for nuanced evaluation
+- **Confidence Calibration**: Provides transparency about assessment reliability
+- **Interactive Visualizations**: Explore evidence distribution and assessment patterns
+- **Professional Reporting**: Structured scorecards with clear strengths and improvement areas
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-<img src="https://raw.githubusercontent.com/kris-nale314/beyond-notes/main/docs/images/beyondLogic.png" alt="Beyond-Notes Architecture" width="80%"/>
+<img src="https://raw.githubusercontent.com/kris-nale314/learning-lab-ai/main/docs/images/logicLearningLabAI.png" alt="Framework Assessment Workbench Flow" width="90%"/>
 </td>
 </tr>
 </table>
