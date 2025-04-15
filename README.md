@@ -10,14 +10,6 @@ I'm not a traditional software developer – I'm a builder, experimenter, and st
 
 > "I believe in building AI systems that adapt, evolve, and create tangible value while remaining ethically grounded."
 
-## 🧠 My AI Design Philosophy
-
-> "I believe in building AI systems that adapt, evolve, and create tangible value while remaining ethically grounded."
-
-## 🧠 My AI Design Philosophy
-
-> "I believe in building AI systems that adapt, evolve, and create tangible value while remaining ethically grounded."
-
 <table>
 <tr>
 <td width="50%" align="center"><h3>🎯 Decision Enhancement,<br>Not Just Automation</h3></td>
