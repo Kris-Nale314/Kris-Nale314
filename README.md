@@ -22,41 +22,70 @@ The most appropriate AI approach **balances sophistication with sustainability**
 ### 🤝 Collaborative Development Across Disciplines
 Successful AI implementation requires **bridging technical capabilities with domain expertise**. I create environments where **data scientists, subject matter experts, and business stakeholders** can effectively collaborate, ensuring solutions address **real-world complexities**.
 
-## 🔭 Featured Projects
+## 🔭 Projects & Experiments
 
-Each project demonstrates aspects of my AI design philosophy in action:
+### 🧠 Project Spotlight: Learning Lab AI
+<p align="center"><strong>Framework Assessment Workbench with Multi-Agent Intelligence</strong></p>
 
-### [🍎 Learning-Lab-AI](https://github.com/Kris-Nale314/learning-lab-ai)
-**Framework Assessment Workbench with Multi-Agent Intelligence**
-- **Philosophy in Action**: Decision enhancement through multi-resolution information presentation
-- **Key Innovation**: Dynamic assessment strategy planning based on document and framework characteristics
-- **Technical Highlight**: Configurable agent architecture with shared context protocol
+<table align="center">
+<tr>
+<td width="50%">
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/kris-nale314/learning-lab-ai/main/docs/images/logicLearningLabAI.png" alt="Framework Assessment Flow" width="70%"/>
-</p>
+### Dynamic Multi-Agent Architecture
+- **Meta Planner Agent**: Designs custom assessment strategies for each document-framework pair
+- **Specialized Extractors**: Identify and categorize evidence with precision and context awareness
+- **Shared Context Protocol**: Enables seamless agent collaboration with evidence traceability
+- **Assessment Type Distinction**: Clearly differentiates between direct and inferred ratings
 
-### [📝 Beyond-Notes](https://github.com/Kris-Nale314/beyond-notes)
+</td>
+<td width="50%">
+
+### Advanced Assessment Features
+- **Evidence Categorization**: Classifies by relevance level and sentiment for nuanced evaluation
+- **Confidence Calibration**: Provides transparency about assessment reliability
+- **Interactive Visualizations**: Explore evidence distribution and assessment patterns
+- **Professional Reporting**: Structured scorecards with clear strengths and improvement areas
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://raw.githubusercontent.com/kris-nale314/learning-lab-ai/main/docs/images/logicLearningLabAI.png" alt="Framework Assessment Workbench Flow" width="90%"/>
+</td>
+</tr>
+</table>
+
+**Philosophy in Action**: Decision enhancement through multi-resolution information presentation combined with right-sized processing strategies that adapt to document complexity.
+
+**[Explore the Project →](https://github.com/Kris-Nale314/learning-lab-ai)**
+
+### 📚 Additional Projects
+
+Each project demonstrates different aspects of my AI design philosophy:
+
+#### [📝 Beyond-Notes](https://github.com/Kris-Nale314/beyond-notes)
 **Multi-Agent Document Analysis System**
-- **Philosophy in Action**: Collaborative development with domain-expert interaction points
 - **Key Innovation**: Progressive metadata enrichment through specialized agent crews
-- **Technical Highlight**: Macro-chunking that preserves context for long documents over 100k tokens
+- **Technical Highlight**: Macro-chunking that preserves context for documents up to 100k tokens
 
 <p align="center">
-<img src="https://github.com/Kris-Nale314/beyond-notes/blob/main/docs/images/beyondLogic.png" alt="Beyond Notes Architecture" width="70%"/>
+<img src="https://github.com/Kris-Nale314/beyond-notes/blob/main/docs/images/bnScreen1.png" alt="Beyond Notes Screenshots" width="100%"/>
 </p>
 
-### [💫 ByteMeSumAI](https://github.com/Kris-Nale314/ByteMeSumAI)
+#### [💫 ByteMeSumAI](https://github.com/Kris-Nale314/ByteMeSumAI)
 **Modular Toolkit for Context-Aware Document Processing**
-- **Philosophy in Action**: Design for evolution with independently upgradable components
 - **Key Innovation**: Architecture-aware processing that adapts to document structure
 - **Technical Highlight**: Configurable chunking and embedding strategies for different document types
 
-### [🍄 HalluciNOT](https://github.com/Kris-Nale314/HalluciNOT)
+#### [🍄 HalluciNOT](https://github.com/Kris-Nale314/HalluciNOT)
 **Verification Toolkit for LLM Outputs**
-- **Philosophy in Action**: Right-sized solutions for critical verification needs
 - **Key Innovation**: Multi-level verification that balances performance with accuracy
 - **Technical Highlight**: Source-grounded evaluation with configurable confidence thresholds
+
+#### [♻️ Agentic-Explorer](https://github.com/Kris-Nale314/agentic-explorer)
+**Agentic AI in Action & Under the Hood**
+- **Key Innovation**: Interactive exploration of agent behaviors and decision processes
+- **Technical Highlight**: Transparent agent reasoning and collaboration visualization
 
 ## ✍️ Recent Publications
 
@@ -77,19 +106,13 @@ This process accelerates learning while revealing practical challenges that only
 
 ### Current Research Interests
 
-- **🧩 Modular AI Architectures**: Developing component-based systems that can evolve independently while maintaining integration integrity
-  
-- **🤖 Multi-Agent Orchestration**: Creating frameworks for agent collaboration that balance autonomy with coordination
-
-- **🔍 Advanced Retrieval Systems**: Designing hierarchical, context-aware retrieval methods that enhance precision while preserving broad knowledge access
-
-- **🖼️ Multimodal AI Integration**: Exploring how text, image, and video understanding can be combined for richer AI capabilities
-
-- **🛡️ AI Safety & Alignment**: Implementing practical approaches to ensure AI systems remain aligned with human values as they evolve
-
-- **📊 Explainable AI Decisions**: Building transparency mechanisms that make complex AI decisions intelligible to various stakeholders
-
-- **🔄 Continuous Learning Systems**: Developing architectures that learn and adapt from operational feedback without destabilizing
+**🧩 Modular AI Architectures**: Developing component-based systems that can evolve independently while maintaining integration integrity
+**🤖 Multi-Agent Orchestration**: Creating frameworks for agent collaboration that balance autonomy with coordination
+**🔍 Advanced Retrieval Systems**: Designing hierarchical, context-aware retrieval methods that enhance precision while preserving broad knowledge access
+**🖼️ Multimodal AI Integration**: Exploring how text, image, and video understanding can be combined for richer AI capabilities
+**🛡️ AI Safety & Alignment**: Implementing practical approaches to ensure AI systems remain aligned with human values as they evolve
+**📊 Explainable AI Decisions**: Building transparency mechanisms that make complex AI decisions intelligible to various stakeholders
+**🔄 Continuous Learning Systems**: Developing architectures that learn and adapt from operational feedback without destabilizing
 
 ## 🤝 Collaboration Philosophy
 
