@@ -10,32 +10,9 @@ I'm not a traditional software developer – I'm a builder, experimenter, and st
 
 > "I believe in building AI systems that adapt, evolve, and create tangible value while remaining ethically grounded."
 
-<table>
-<tr>
-<td width="50%" align="center"><h3>🎯 Decision Enhancement,<br>Not Just Automation</h3></td>
-<td width="50%" align="center"><h3>🌱 Design for Evolution,<br>Not Static Deployment</h3></td>
-</tr>
-<tr>
-<td>
-I design AI systems that <b>enhance human decision-making</b> rather than simply automating tasks. This means creating systems that provide <b>multi-resolution information access</b>, preserve <b>contextual understanding</b>, and <b>complement human expertise</b> instead of attempting to replace it.
-</td>
-<td>
-Effective AI systems must be designed from the start to <b>evolve continuously</b> as models, data, and requirements change. I build <b>modular architectures</b> with replaceable components, <b>continuous monitoring</b> capabilities, and clear <b>feedback pathways</b> that allow systems to adapt over time.
-</td>
-</tr>
-<tr>
-<td width="50%" align="center"><h3>⚖️ Right-Sized Solutions,<br>Not Technical Showcases</h3></td>
-<td width="50%" align="center"><h3>🤝 Collaborative Development<br>Across Disciplines</h3></td>
-</tr>
-<tr>
-<td>
-The most appropriate AI approach <b>balances sophistication with sustainability</b> and practical value. I focus on <b>matching technical approaches to actual needs</b> rather than pursuing cutting-edge technology for its own sake, ensuring <b>long-term viability</b> and clear ROI.
-</td>
-<td>
-Successful AI implementation requires <b>bridging technical capabilities with domain expertise</b>. I create environments where <b>data scientists, subject matter experts, and business stakeholders</b> can effectively collaborate, ensuring solutions address <b>real-world complexities</b>.
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kris-Nale314/learning-lab-ai/main/docs/images/aiDesign.png" alt="AI Design Philosophy" width="60%"/>
+</p>
 
 ## 🔭 Projects & Experiments
 
@@ -115,7 +92,7 @@ Each project demonstrates different aspects of my AI design philosophy:
 
 I believe in **learning by building** – using practical experimentation as the foundation for effective AI strategy. My systematic approach to exploring new AI architectures follows a cycle of:
 
-1. **Rapid Prototyping** → **Component Testing** → **Architecture Refinement** → **UI/UX Enhancement** → **Documentation & Sharing**
+ **Rapid Prototyping** → **Component Testing** → **Architecture Refinement** → **UI/UX Enhancement** → **Documentation & Sharing**
 
 This process accelerates learning while revealing practical challenges that only become visible during implementation.
 
