@@ -82,6 +82,7 @@ Each project demonstrates different aspects of my AI design philosophy:
 ## ✍️ Recent Publications
 
 - [🧪 Experiment-Driven AI Development: Building the Plane While Flying](https://medium.com/towards-artificial-intelligence/experiment-driven-ai-development-building-the-plane-while-flying-7c9b0ac302eb)
+- [🎯 Unstick Your AI Pilots: A Practical Approach to Designing Your AI Strategy](https://medium.com/ai-advances/unstick-your-ai-pilots-66f291335ea4)
 - [⁉️ Level Up Your AI Products: Why Reusable Components Aren't Just a Nice-to-Have](https://medium.com/generative-ai/level-up-your-ai-products-why-reusable-components-arent-just-a-nice-to-have-b4e296096f02)
 - [💫 ByteMeSumAI: A Modular Python Toolkit for Architecture-Aware Document Processing in Agentic AI](https://medium.com/generative-ai/bytemesumai-a-modular-python-toolkit-for-document-processing-in-agentic-ai-00a374496125)
 - [🗣️ Words Matter: Are Language Barriers Driving Quiet Failures in AI?](https://pub.towardsai.net/words-matter-are-language-barriers-driving-quiet-failures-in-ai-1b5741e1d089)
