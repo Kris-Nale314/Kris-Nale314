@@ -88,6 +88,7 @@ Each project demonstrates different aspects of my AI design philosophy:
 - [🗣️ Words Matter: Are Language Barriers Driving Quiet Failures in AI?](https://pub.towardsai.net/words-matter-are-language-barriers-driving-quiet-failures-in-ai-1b5741e1d089)
 - [🦄 Agentic Orchestration in Modular AI: Designing Systems That Evolve](https://medium.com/ai-in-plain-english/agentic-orchestration-in-modular-ai-designing-systems-that-evolve-af51970e1291)
 - [💸 Advanced Retrieval Mechanisms for AI Systems: Lessons from Financial Services](https://medium.com/ai-advances/advanced-retrieval-mechanisms-for-ai-systems-lessons-from-financial-services-fe4dae414386)
+- [🐝 Multi-Agent Systems Coordination with Hybrid Swarm Intelligence Frameworks](https://medium.com/ai-advances/multi-agent-systems-coordination-with-hybrid-frameworks-d8a781167f92)
 
 ## 🔬 Research & Experimentation Approach
 
